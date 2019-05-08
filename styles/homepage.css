@@ -4,7 +4,7 @@ body {
 }
 
 ul {
-    margin: 0;
+    padding: 0;
 }
 
 .firstName {
@@ -29,4 +29,8 @@ ul {
     margin-left: 10px;
     float: left;
     background-color: #ccf2ff;
+}
+
+.content {
+    margin: 10px;
 }
