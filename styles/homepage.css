@@ -1,3 +1,7 @@
+body {
+    width: 70%;
+}
+
 .firstName {
     color: lightblue;
 }
@@ -8,7 +12,6 @@
 
 .skills {
     list-style: none;
-    display: inline-block;
 }
 
 #left {
