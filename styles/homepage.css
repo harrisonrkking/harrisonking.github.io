@@ -1,19 +1,22 @@
-firstName {
+.firstName {
     color: lightblue;
 }
 
-lastName {
+.lastName {
     color: navy;
 }
 
-skills {
+.skills {
     list-style: none;
 }
 
 #left {
     width: 66%;
+    float: left;
 }
 
 #right {
     width: auto;
+    margin-left: 10px;
+    float: left;
 }
