@@ -5,3 +5,15 @@ firstName {
 lastName {
     color: navy;
 }
+
+skills {
+    list-style: none;
+}
+
+#left {
+    width: 66%;
+}
+
+#right {
+    width: auto;
+}
