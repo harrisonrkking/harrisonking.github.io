@@ -19,6 +19,14 @@ ul {
     list-style: none;
 }
 
+.time {
+    width: 20%;
+}
+
+.experience {
+    width: auto;
+}
+
 #left {
     width: 66%;
     float: left;
