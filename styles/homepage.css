@@ -4,6 +4,7 @@ body, html {
 
 body {
     width: 70%;
+    height: 100%;
     margin: auto;
 }
 
@@ -23,15 +24,29 @@ ul {
     list-style: none;
 }
 
+.list {
+    padding-left: 22%;
+}
+
 .time {
     width: 20%;
     float: left;
-    height: 100%;
+    color: lightblue;
+}
+
+.year {
+    padding-bottom: 220px;
+    padding-right: 10px;
+}
+
+.firstYear {
+    padding-top: 12px;
 }
 
 #left {
     width: 66%;
-    float: left;
+    float: left;    
+    height: 100%;
 }
 
 #right {
